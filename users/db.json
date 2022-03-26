@@ -1,11 +1,32 @@
 {
-    "users": [
-        { "id": "20", "firstName": "Vinoth", "age": 29, "companyId": "1" },
-        { "id": "25", "firstName": "Kumar", "age": 25, "companyId": "2" },
-        { "id": "35", "firstName": "Akash", "age": 50, "companyId": "2" }
-    ],
-    "companies": [
-        { "id": "1", "name": "apple", "description": "Engineer" },
-        { "id": "2", "name": "google", "description": "scientist" }
-    ]
+  "users": [
+    {
+      "id": "35",
+      "firstName": "Sachin",
+      "age": 50,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Vinoth",
+      "age": 30,
+      "id": "L8eC22Q"
+    },
+    {
+      "firstName": "Kumar",
+      "age": 32,
+      "id": "ffhQ7Xd"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple",
+      "description": "Engineer"
+    },
+    {
+      "id": "2",
+      "name": "google",
+      "description": "scientist"
+    }
+  ]
 }
